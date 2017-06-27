@@ -1,0 +1,15 @@
+{
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "json2csv": "^3.7.3",
+    "knex": "^0.12.9",
+    "line-by-line": "^0.1.5",
+    "rambda": "^0.7.0"
+  },
+  "devDependencies": {
+    "pg": "^6.1.5",
+    "sbd": "^1.0.12"
+  }
+}
